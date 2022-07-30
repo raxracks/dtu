@@ -1,0 +1,24 @@
+{
+  "entities": {
+    "user": {
+      "key": "uuid",
+
+      "uuid": {
+        "type": "string"
+      },
+
+      "id": {
+        "type": "string"
+      },
+
+      "tag": {
+        "type": "string"
+      },
+
+      "balance": {
+        "type": "string",
+        "value": "0"
+      }
+    }
+  }
+}
